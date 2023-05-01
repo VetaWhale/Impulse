@@ -1,0 +1,36 @@
+/* Шрифты используемые на странице */
+/*  
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+*/
+
+/* Основные стили */
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.container {
+  width: 796px;
+}
+
+/* Шрифты */
+.tag {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 94%;
+}
+
+/* Основные цвета */
+:root {
+    --accent-color: #EFB7B7;
+    --background-color: #F4F2F3;
+}
+
+/* Адаптив основных стилей */
+
+/* Адаптив основных шрифтов */
